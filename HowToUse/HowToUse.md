@@ -22,7 +22,7 @@ Error will be occurred.
 1.  Open **File** > **Options and settings** > **Data source settings**
 ![Data source settings](images/step2-datasource.png)
 1.  Change the path of Data Source to the file that just was created.
-!Change Data Source[](images/step3-changedatasurce.png)
+![Change Data Source](images/step3-changedatasurce.png)
 
 ## Do per Iteration
 ![Do pwer Iteration](images/headline-fig.png)
