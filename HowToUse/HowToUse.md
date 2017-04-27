@@ -12,7 +12,7 @@
 ## First Preparation
 ![Asset](images/asset.png)
 1. Download all files of this asset. 
-1. Copy **.xltb** files to your Office Template folder of My Documents (Optional)
+1. Copy **.xltx** files to your Office Template folder of My Documents (Optional)
 1. Open **.wiq** file via text editor. Replace "AccountName" to your VSTS account name and replace "ProjectName" to your VSTS project name.
 1. Open **.wiq** file via Visual Studio. Save it as shared query of VSTS.
 1. Create a new Excel file via **DataSource TFS-EVM.xltx** and save to your folder. It is better not to change this folder until the end of the project.
@@ -27,7 +27,7 @@ Error will be occurred.
 ## Do per Iteration
 ![Do pwer Iteration](images/headline-fig.png)
 1. Create a new Excel file via **TFS-EVM (Bugs are managed with task).xltx** or **TFS-EVM (Bugs are managed with requirement).xltx** and save to your folder. 
-1. Open the Excel file and input **1.2. Iteration Data** work sheet. Change ＊＊Spent** of the past iteration  to **TRUE**.
+1. Open the Excel file and input **1.2. Iteration Data** work sheet. Change **Spent** of the past iteration  to **TRUE**.
 1. Open the query via Visual Studio. Export Work items of VSTS to Excel file by using **Open by Excel**  command.
 1. Copy table data of the Excel file.
 1. Paste it to **3. Exported TFS・VSTS Data** work sheet of the Itearation Excel file. The hierarchy of exported work items may not go well. In that case, please give feedback.
