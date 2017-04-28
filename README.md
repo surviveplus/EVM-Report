@@ -4,8 +4,9 @@ To create Earned Value Management (EVM) report by using Power BI and Visual Stud
 ![Power BI Screen Image](HowToUse/images/headline-powerbi.png)
 
 ## Background
-![Power BI Screen Image](HowToUse/images/headline-fig.png)
+We should develop by agile. But if it is not possible, we have no choice but to develop by traditional development methods. This asset makes it easy for developers to make traditional reports, even if they use the latest VSTS.
 
+![System](HowToUse/images/headline-fig.png)
 Without using this asset, we can see "now" via using VSTS/TFS and Power BI.
 However, because there is no history, we can not make the EVM report. 
 
